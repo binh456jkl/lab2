@@ -1,2 +1,2 @@
 # lab2
-ok
+lab pình làm
